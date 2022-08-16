@@ -1,0 +1,11 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+39. Que, a partir de tres números, indique el tipo de triángulo que forman (isósceles, equilatero, 
+escaleno) suponiendo que corresponden al largo de cada uno de sus lados. Comprobar que 
+los números realmente formen un triángulo, sino emitir el error.
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------

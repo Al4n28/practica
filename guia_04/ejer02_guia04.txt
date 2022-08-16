@@ -1,0 +1,14 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+6. Reciba un arreglo con n caracteres, y un carácter cualquiera, y elimine el carácter dentro 
+del arreglo (debe quedar el caracter espacio " "). Por ejemplo, si el arreglo original es A y 
+el carácter a eliminar es “d”:
+A: a b c d a b c d a b d
+El resultado debe ser: (Las celdas vacías deben quedar con un espacio en blanco “ ”).
+A: a b c a b c a b
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------

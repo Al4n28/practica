@@ -1,0 +1,11 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+7. Construya un programa en C que a partir de una matriz de mxn enteros, el usuario le indique el 
+número de la fila que desea ver de la matriz, e imprima tal fila por pantalla.
+### compéjizar pidiendo fila o columna
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
