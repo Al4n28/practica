@@ -10,6 +10,8 @@ precio con descuento. Por ejemplo, si el precio que introduce el usuario es 300 
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+Un Supermercado esta de aniversario y lanza una promoción de distintos descuentos en todos sus 
+productos, para ello necesita de un nuevo sistema que le ayude a los cajeros a realizar los descuentos
 Cree una función Calcular_Precio_Descuento(Precio, Descuento) donde:
 Precio  float
 Descuento  int

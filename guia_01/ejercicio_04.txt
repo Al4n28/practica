@@ -21,3 +21,8 @@ Esas notas le dan nota de Cátedra. La nota final NF se calcula como:
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+Cree una función Calcular_Nota_Necesaria(Solemne1, Solemne2, Solemne3, 
+                                        Control1, Control2, Control3) donde:
+Solemne1, Solemne2, Solemne3, Control1, Control2, Control3  float
+
+Esta función debe retornar la nota necesaria para que la alumna pueda aprobar el curso.
