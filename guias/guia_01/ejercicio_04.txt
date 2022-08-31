@@ -1,0 +1,28 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+
+30. Una alumna de enfermería (para ellas, un alumno machote de medicina) desea saber su nota 
+de presentación al examen y además, qué nota necesita en el examen para aprobar el curso 
+de introducción a las ciencias médicas. Se ha acercado a Uds. si le pueden hacer ese gran 
+favor: Uds. para demostrar todos sus conocimientos les realizaran un programa para ayudar 
+en esta noble causa. Las ponderaciones de las notas son:
+
+     Solemne 1: 20 %.
+     Solemne 2: 25 %.
+     Solemne 3: 30 %.
+     Controles: 25 % (3 controles al promedio)
+
+Esas notas le dan nota de Cátedra. La nota final NF se calcula como:
+
+    NF = Cátedra × 0,7 + Examen × 0,3
+
+
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+Cree una función Calcular_Nota_Necesaria(Solemne1, Solemne2, Solemne3, 
+                                        Control1, Control2, Control3) donde:
+Solemne1, Solemne2, Solemne3, Control1, Control2, Control3  float
+
+Esta función debe retornar la nota necesaria para que la alumna pueda aprobar el curso.

@@ -1,0 +1,20 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+
+17. Calcular precios con descuento:
+Escribe un programa que pregunte el precio, el tanto por ciento de descuento, e imprima el 
+precio con descuento. Por ejemplo, si el precio que introduce el usuario es 300 y el descuento 
+20, el programa dirá que el precio final con descuento es de 240.
+
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+Un Supermercado esta de aniversario y lanza una promoción de distintos descuentos en todos sus 
+productos, para ello necesita de un nuevo sistema que le ayude a los cajeros a realizar los descuentos
+Cree una función Calcular_Precio_Descuento(Precio, Descuento) donde:
+Precio  float
+Descuento  int
+Esta función debe retornar el Precio con Descuento float
+
+--------------------------------------------------------------------------------------------

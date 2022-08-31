@@ -1,0 +1,12 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+a. La función “scanf” tiene un problema para leer arreglos de caracteres (“%s” de string): 
+Si uno de los caracteres es un espacio, “scanf” lee solo hasta el espacio. Investigue qué 
+otra función puede utilizar para leer un arreglo de caracteres completo, hasta que el 
+usuario digite “Enter”.
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+36. Que determine el monto a pagar a sus empleados de acuerdo al cálculo de horas trabajadas 
+que se obtiene de la siguiente tabla:
+Rango horas trabajadas Incentivo
+25 y 30 Sueldo base + 5% del sueldo base
+31 y 35 Sueldo base + 10% del sueldo base
+36 y 40 Sueldo base + 15% del sueldo base
+41 y 50 Sueldo base + 25% del sueldo base
+
+NOTA: El programa debe ser capaz de mostrar un mensaje de error si las horas no están en 
+el rango especificado. Además, considere un sueldo base de $500.000.
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------

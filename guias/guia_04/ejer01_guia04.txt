@@ -1,0 +1,16 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+1. Haga un programa que llene un arreglo con los números enteros del 1 al 20, y lo imprima 
+por pantalla.
+A partir del programa anterior, haga un nuevo programa que:
+2. Imprima el contenido del arreglo, en forma invertida.
+3. Imprima el contenido del arreglo, pero sólo de las posiciones pares (la segunda posición, 
+la cuarta posición, etc).
+4. Construya un programa que promedie los valores de un arreglo de n números, definidos 
+por el usuario, e imprima tal valor por pantalla
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------

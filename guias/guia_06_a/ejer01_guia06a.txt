@@ -1,0 +1,18 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+Escriba un programa en C que lea un mapa de video juego (en formato texto) de nombre landofwar.map
+y lo almacene en una matriz de enteros llamada mapa. La primera y segunda fila del archivo contiene el 
+alto y el ancho respectivamente. Luego viene el contenido del mapa. Los caracteres del mapa tienen un 
+significado:
+ W: Agua (Obstáculo)
+ T: Árbol (Obstáculo)
+ F: Terreno Libre
+Cada celda de la matriz mapa debe contener un 1, si la posición es un obstáculo o un 0 si es terreno libre.
+Un ejemplo de archivo y la matriz resultante es éste:
+ejer01_guia06a.png
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------

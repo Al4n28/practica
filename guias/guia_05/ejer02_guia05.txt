@@ -1,0 +1,12 @@
+                                ENUNCIADO DE LA GUIA
+---------------------------------------------------------------------------------------------
+5. Construya un programa en C que imprima por pantalla la posición (debe indicar fila y columna) 
+exacta donde se encuentra un elemento dentro de una matriz con mxn caracteres. Si el caracter 
+buscado no se encuentra, debe imprimir la posición fila:-1 y columna:-1.
+
+--------------------------------------------------------------------------------------------
+
+                                ENUNCIADO RECOMENDADO
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
