@@ -28,6 +28,7 @@ guia_06_e/*.o
 guia_06_e/*.obj
 guia_06_e/*.exe
 boost/lib
+.vscode
 *.o
 *.obj
 *.exe

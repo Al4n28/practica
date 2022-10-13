@@ -1,7 +1,0 @@
-Google Forms Horas de Práctica:
-- Llenar Form : https://forms.gle/BgMLfpbpYyhDY6fG7
-- Ver Excel : https://docs.google.com/spreadsheets/d/1GSxgz1446uI6B8_nLNioTCbYwR3lPCn5XSM6vSzh4kk/edit#gid=2021587167
-
-GitHub para subir archivos:
-*** Por Comodidad al actualizar archivos ***
-- https://github.com/Al4n28/practica
