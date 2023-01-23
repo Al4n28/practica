@@ -35,5 +35,11 @@ Tributaria de un ciudadano, es decir si le corresponde “Devolución” o “Pa
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
-
+Cree una función Calcular_impuestos(Salario) donde:
+Recordar que la renta bruta no es igual al salario
+Esta función debe retornar el 
+D =Devolucion
+P= pago
+N = No valido
+segun corresponda
 --------------------------------------------------------------------------------------------

@@ -7,5 +7,7 @@ corresponde a la multiplicación de los n primeros números naturales)
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+Cree una función Calcular_Factorial(Numero Entero) donde:
 
+Esta función debe retornar factorial del numero entero
 --------------------------------------------------------------------------------------------

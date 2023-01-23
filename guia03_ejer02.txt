@@ -6,5 +6,7 @@ resultados desde el 1 al 15.
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+Cree una función Calcular_Tabla(Numero Entero) donde:
 
+Esta función debe imprimir la tabla y retornar 0
 --------------------------------------------------------------------------------------------

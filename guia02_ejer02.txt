@@ -14,5 +14,9 @@ el rango especificado. Además, considere un sueldo base de $500.000.
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+Cree una función Calcular_Sueldo(Horas) donde:
 
+Esta función debe retornar el float del sueldo y en caso de que las horas no esten en el rango retornar un -1
+
+--------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------

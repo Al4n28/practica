@@ -2,14 +2,19 @@
 ---------------------------------------------------------------------------------------------
 27. Que transforme calificaciones numéricas (de 1 a 7) en conceptos:
  E (Excelente): 7
- MB (Muy Bueno): [6,7[
+ M (Muy Bueno): [6,7[
  B (Bueno): [5,6[
  S (Suficiente): [4,5[
  I (Insuficiente): [1,4[
- Error, en cualquier otro caso.
+ N (No Válido), en cualquier otro caso.
 --------------------------------------------------------------------------------------------
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Cree una función Calcular_Calificacion(Puntaje) donde:
+
+Esta función debe retornar el char correspondiente en Mayusculas
 
 --------------------------------------------------------------------------------------------

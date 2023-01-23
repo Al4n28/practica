@@ -7,5 +7,11 @@ los números realmente formen un triángulo, sino emitir el error.
 
                                 ENUNCIADO RECOMENDADO
 --------------------------------------------------------------------------------------------
+Cree una función Calcular_Triangulo(a,b,c) donde:
 
+Esta función debe retornar el 
+I =Isoseles
+E= Esquilatero
+S = escaleno
+N = No existe el triangulo
 --------------------------------------------------------------------------------------------

@@ -10,7 +10,7 @@ float Calcular_Precio_Descuento(float Precio, float Descuento);
 
 #define BOOST_TEST_MODULE example
 
-#include  </mnt/c/Users/Alan/Desktop/PracticaGit/practica/boost/test/included/unit_test.hpp>
+#include  </mnt/c/Users/Alan/Desktop/practica/practica/boost/test/included/unit_test.hpp>
 
 
 BOOST_AUTO_TEST_SUITE( test_suite1 )
